@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahak Thakre</h1>
+<h1 align="center"> Mahak Thakre </h1>
 <h3 align="center">🚀 Aspiring AI & Full-Stack Developer | Python | ML/DL | Web Dev | Problem Solver</h3>
 
 - 🔭 I’m currently working on **Fake news detection project**
